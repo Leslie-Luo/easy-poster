@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "outDir": "dist",
+    "baseUrl": "./",
+    "paths": {
+      "*": ["*"]
+    }
+  },
+  "include": ["interfaces/**/*.ts"]
+}
